@@ -1,0 +1,20 @@
+body{
+    background-color: pink
+}
+h1{
+    font-family: "Regular Libre Baskerville";
+    color: indianred;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: brown;
+    font-size: 9px;
+
+}
+img{
+    height: 400px;
+    margin: 100px;
+    margin-bottom: 10px;
+    border: 10px solid black;
+}
